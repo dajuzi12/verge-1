@@ -28,3 +28,5 @@ These are the dependencies currently used by Verge Core. You can find instructio
 | xkbcommon |  |  |  |  | [Yes](/depends/packages/qt.mk#L93) (Linux only) |
 | ZeroMQ | [4.2.3](https://github.com/zeromq/libzmq/releases) |  | No |  |  |
 | zlib | [1.2.11](http://zlib.net/) |  |  |  | No |
+
+<!-- Auto-update: 2025-10-18T13:52:22.981630 -->
